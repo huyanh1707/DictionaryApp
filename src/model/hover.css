@@ -1,0 +1,17 @@
+.button {
+    -fx-border-radius: 60;
+    -fx-background-radius: 60;
+    -fx-alignment: center;
+    -fx-font-family: "Fira Code";
+    -fx-font-size: 17px;
+    -fx-font-weight: BOLD;
+    -fx-text-fill: white;
+    -fx-background-color: #526c7d;
+}
+
+.button :hover {
+    -fx-font-family: "Fira Code";
+    -fx-font-size: 19px;
+    -fx-font-weight: BOLD;
+    -fx-background-color: #778299;
+}
